@@ -1,6 +1,6 @@
 cask "fusuma" do
-  version "1.0.28"
-  sha256 "c75f9eba23542f79f90e4774227eb67e1945eca5e53ba72ca1d2256b081183d2"
+  version "1.0.29"
+  sha256 "78515977c3cbe9ca76dbb645209c9ee9f85a6bdb8cbaf936d973a939de2c0d5d"
 
   url "https://api.fusuma.dev/updates/Fusuma-#{version}.dmg"
   name "Fusuma"
